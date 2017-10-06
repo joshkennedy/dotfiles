@@ -17,7 +17,6 @@ apps=(
   battery
   coreutils
   diff-so-fancy
-  dockutil
   ffmpeg
   fasd
   gifsicle
